@@ -1,0 +1,4 @@
+upload_files/*.png
+upload_files/*.jpg
+upload_files/*.jpeg
+__pycache__

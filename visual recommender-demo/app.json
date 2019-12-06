@@ -1,0 +1,9 @@
+{
+  "name": "mnist-demo",
+  "description": "mnist demo using tensorflow",
+  "image": "heroku/python",
+  "logo": "https://pbs.twimg.com/media/CQQuwnkUcAAkItW.png",
+  "repository": "https://github.com/sumit-kothari/mnist-demo",
+  "keywords": ["python", "flask"],
+  "addons": ["heroku-postgresql"]
+}
